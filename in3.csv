@@ -1,0 +1,216 @@
+CountryName,CountryCode,IndicatorName,IndicatorCode,Year,Value
+India,IND,Age dependency ratio (% of working-age population),SP.POP.DPND,1960,76.5595381
+India,IND,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,1960,5.403730447
+India,IND,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,1960,71.15580765
+India,IND,"Agriculture, value added (% of GDP)",NV.AGR.TOTL.ZS,1960,42.56113077
+India,IND,"Agriculture, value added (constant 2005 US$)",NV.AGR.TOTL.KD,1960,47368084618
+India,IND,"Agriculture, value added (constant LCU)",NV.AGR.TOTL.KN,1960,3.90424E+12
+India,IND,"Agriculture, value added (current LCU)",NV.AGR.TOTL.CN,1960,72564597600
+India,IND,"Agriculture, value added (current US$)",NV.AGR.TOTL.CD,1960,15238580735
+India,IND,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1960,547000000
+India,IND,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,1960,42.107
+India,IND,Changes in inventories (constant LCU),NE.GDI.STKB.KN,1960,1.14354E+11
+India,IND,Changes in inventories (current LCU),NE.GDI.STKB.CN,1960,3280282300
+India,IND,Changes in inventories (current US$),NE.GDI.STKB.CD,1960,688859971.9
+India,IND,CO2 emissions (kg per 2005 US$ of GDP),EN.ATM.CO2E.KD.GD,1960,1.174577998
+India,IND,CO2 emissions (kt),EN.ATM.CO2E.KT,1960,120581.961
+India,IND,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1960,0.268161407
+India,IND,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1960,0
+India,IND,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,1960,0
+India,IND,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,1960,16.13903841
+India,IND,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1960,19460.769
+India,IND,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1960,80.61612383
+India,IND,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1960,97208.503
+India,IND,Consumer price index (2010 = 100),FP.CPI.TOTL,1960,2.587927167
+India,IND,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,1960,22.423
+India,IND,DEC alternative conversion factor (LCU per US$),PA.NUS.ATLS,1960,4.7619
+India,IND,Discrepancy in expenditure estimate of GDP (constant LCU),NY.GDP.DISC.KN,1960,-49191822300
+India,IND,Discrepancy in expenditure estimate of GDP (current LCU),NY.GDP.DISC.CN,1960,-13887803600
+India,IND,Exports as a capacity to import (constant LCU),NY.EXP.CAPM.KN,1960,3.20963E+11
+India,IND,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,1960,4.386235338
+India,IND,Exports of goods and services (constant 2005 US$),NE.EXP.GNFS.KD,1960,4235159779
+India,IND,Exports of goods and services (constant LCU),NE.EXP.GNFS.KN,1960,2.93247E+11
+India,IND,Exports of goods and services (current LCU),NE.EXP.GNFS.CN,1960,7870000000
+India,IND,Exports of goods and services (current US$),NE.EXP.GNFS.CD,1960,1652701653
+India,IND,External balance on goods and services (% of GDP),NE.RSB.GNFS.ZS,1960,-2.32966502
+India,IND,External balance on goods and services (constant LCU),NE.RSB.GNFS.KN,1960,-1.49007E+11
+India,IND,External balance on goods and services (current LCU),NE.RSB.GNFS.CN,1960,-4180000000
+India,IND,External balance on goods and services (current US$),NE.RSB.GNFS.CD,1960,-877800877.8
+India,IND,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1960,5.906
+India,IND,Final consumption expenditure (constant 2005 US$),NE.CON.TOTL.KD,1960,89548131047
+India,IND,Final consumption expenditure (constant LCU),NE.CON.TOTL.KN,1960,5.82077E+12
+India,IND,Final consumption expenditure (current LCU),NE.CON.TOTL.CN,1960,1.71312E+11
+India,IND,Final consumption expenditure (current US$),NE.CON.TOTL.CD,1960,35975652261
+India,IND,"Final consumption expenditure, etc. (% of GDP)",NE.CON.TETC.ZS,1960,87.73844782
+India,IND,"Final consumption expenditure, etc. (constant 2005 US$)",NE.CON.TETC.KD,1960,89655805876
+India,IND,"Final consumption expenditure, etc. (constant LCU)",NE.CON.TETC.KN,1960,5.91442E+12
+India,IND,"Final consumption expenditure, etc. (current LCU)",NE.CON.TETC.CN,1960,1.57425E+11
+India,IND,"Final consumption expenditure, etc. (current US$)",NE.CON.TETC.CD,1960,33059210588
+India,IND,Fixed telephone subscriptions,IT.MLT.MAIN,1960,332399
+India,IND,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1960,0.073932904
+India,IND,GDP (constant LCU),NY.GDP.MKTP.KN,1960,6.83659E+12
+India,IND,GDP (current LCU),NY.GDP.MKTP.CN,1960,1.79425E+11
+India,IND,GDP at market prices (constant 2005 US$),NY.GDP.MKTP.KD,1960,1.0266E+11
+India,IND,GDP at market prices (current US$),NY.GDP.MKTP.CD,1960,37679274491
+India,IND,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,1960,2.624478552
+India,IND,GDP per capita (constant 2005 US$),NY.GDP.PCAP.KD,1960,228.3044702
+India,IND,GDP per capita (constant LCU),NY.GDP.PCAP.KN,1960,15203.85464
+India,IND,GDP per capita (current LCU),NY.GDP.PCAP.CN,1960,399.0219042
+India,IND,GDP per capita (current US$),NY.GDP.PCAP.CD,1960,83.79468367
+India,IND,General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,1960,6.910968003
+India,IND,General government final consumption expenditure (constant 2005 US$),NE.CON.GOVT.KD,1960,5986242812
+India,IND,General government final consumption expenditure (constant LCU),NE.CON.GOVT.KN,1960,4.03279E+11
+India,IND,General government final consumption expenditure (current LCU),NE.CON.GOVT.CN,1960,12400000000
+India,IND,General government final consumption expenditure (current US$),NE.CON.GOVT.CD,1960,2604002604
+India,IND,GNI (constant 2005 US$),NY.GNP.MKTP.KD,1960,1.02238E+11
+India,IND,GNI (constant LCU),NY.GNP.MKTP.KN,1960,6.80901E+12
+India,IND,GNI (current LCU),NY.GNP.MKTP.CN,1960,1.78705E+11
+India,IND,GNI (current US$),NY.GNP.MKTP.CD,1960,37528074340
+India,IND,GNI per capita (constant 2005 US$),NY.GNP.PCAP.KD,1960,227.3664402
+India,IND,GNI per capita (constant LCU),NY.GNP.PCAP.KN,1960,15142.50489
+India,IND,GNI per capita (current LCU),NY.GNP.PCAP.CN,1960,397.420701
+India,IND,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,1960,14.5912172
+India,IND,Gross capital formation (constant 2005 US$),NE.GDI.TOTL.KD,1960,17032920683
+India,IND,Gross capital formation (constant LCU),NE.GDI.TOTL.KN,1960,1.12037E+12
+India,IND,Gross capital formation (current LCU),NE.GDI.TOTL.CN,1960,26180282300
+India,IND,Gross capital formation (current US$),NE.GDI.TOTL.CD,1960,5497864781
+India,IND,Gross domestic income (constant 2005 US$),NY.GDY.TOTL.KD,1960,79290000000
+India,IND,Gross domestic income (constant LCU),NY.GDY.TOTL.KN,1960,6.86431E+12
+India,IND,Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,1960,12.26155218
+India,IND,Gross domestic savings (current LCU),NY.GDS.TOTL.CN,1960,22000282300
+India,IND,Gross domestic savings (current US$),NY.GDS.TOTL.CD,1960,4620063903
+India,IND,Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,1960,12.76299736
+India,IND,Gross fixed capital formation (constant 2005 US$),NE.GDI.FTOT.KD,1960,15615655101
+India,IND,Gross fixed capital formation (constant LCU),NE.GDI.FTOT.KN,1960,9.98472E+11
+India,IND,Gross fixed capital formation (current LCU),NE.GDI.FTOT.CN,1960,22900000000
+India,IND,Gross fixed capital formation (current US$),NE.GDI.FTOT.CD,1960,4809004809
+India,IND,"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,1960,5.99136339
+India,IND,"Gross fixed capital formation, private sector (current LCU)",NE.GDI.FPRV.CN,1960,10750000000
+India,IND,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,1960,102.329665
+India,IND,Gross national expenditure (constant 2005 US$),NE.DAB.TOTL.KD,1960,1.05906E+11
+India,IND,Gross national expenditure (constant LCU),NE.DAB.TOTL.KN,1960,7.03478E+12
+India,IND,Gross national expenditure (current LCU),NE.DAB.TOTL.CN,1960,1.83605E+11
+India,IND,Gross national expenditure (current US$),NE.DAB.TOTL.CD,1960,38557075369
+India,IND,Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,1960,2.609958709
+India,IND,Gross value added at factor cost (constant 2005 US$),NY.GDP.FCST.KD,1960,96584020039
+India,IND,Gross value added at factor cost (constant LCU),NY.GDP.FCST.KN,1960,6.40771E+12
+India,IND,Gross value added at factor cost (current LCU),NY.GDP.FCST.CN,1960,1.70495E+11
+India,IND,Gross value added at factor cost (current US$),NY.GDP.FCST.CD,1960,35803984670
+India,IND,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,1960,0.458986908
+India,IND,Household final consumption expenditure (constant 2005 US$),NE.CON.PRVT.KD,1960,83506377541
+India,IND,Household final consumption expenditure (constant LCU),NE.CON.PRVT.KN,1960,5.39135E+12
+India,IND,Household final consumption expenditure (current LCU),NE.CON.PRVT.CN,1960,1.58912E+11
+India,IND,Household final consumption expenditure (current US$),NE.CON.PRVT.CD,1960,33371649657
+India,IND,Household final consumption expenditure per capita (constant 2005 US$),NE.CON.PRVT.PC.KD,1960,185.7092682
+India,IND,"Household final consumption expenditure, etc. (% of GDP)",NE.CON.PETC.ZS,1960,80.82747982
+India,IND,"Household final consumption expenditure, etc. (constant 2005 US$)",NE.CON.PETC.KD,1960,82789973313
+India,IND,"Household final consumption expenditure, etc. (constant LCU)",NE.CON.PETC.KN,1960,5.38604E+12
+India,IND,"Household final consumption expenditure, etc. (current LCU)",NE.CON.PETC.CN,1960,1.45025E+11
+India,IND,"Household final consumption expenditure, etc. (current US$)",NE.CON.PETC.CD,1960,30455207984
+India,IND,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,1960,6.715900358
+India,IND,Imports of goods and services (constant 2005 US$),NE.IMP.GNFS.KD,1960,7481120475
+India,IND,Imports of goods and services (constant LCU),NE.IMP.GNFS.KN,1960,4.91437E+11
+India,IND,Imports of goods and services (current LCU),NE.IMP.GNFS.CN,1960,12050000000
+India,IND,Imports of goods and services (current US$),NE.IMP.GNFS.CD,1960,2530502531
+India,IND,"Industry, value added (% of GDP)",NV.IND.TOTL.ZS,1960,19.29958101
+India,IND,"Industry, value added (constant 2005 US$)",NV.IND.TOTL.KD,1960,19502966055
+India,IND,"Industry, value added (constant LCU)",NV.IND.TOTL.KN,1960,1.5103E+12
+India,IND,"Industry, value added (current LCU)",NV.IND.TOTL.CN,1960,32904819600
+India,IND,"Industry, value added (current US$)",NV.IND.TOTL.CD,1960,6910019026
+India,IND,International migrant stock (% of population),SM.POP.TOTL.ZS,1960,2.092802513
+India,IND,"International migrant stock, total",SM.POP.TOTL,1960,9410535
+India,IND,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,1960,40.418
+India,IND,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,1960,41.89
+India,IND,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1960,41.17195122
+India,IND,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,1960,13.70986624
+India,IND,"Manufacturing, value added (constant 2005 US$)",NV.IND.MANF.KD,1960,10656975452
+India,IND,"Manufacturing, value added (constant LCU)",NV.IND.MANF.KN,1960,7.83229E+11
+India,IND,"Manufacturing, value added (current LCU)",NV.IND.MANF.CN,1960,23374635700
+India,IND,"Manufacturing, value added (current US$)",NV.IND.MANF.CD,1960,4908678406
+India,IND,Merchandise exports (current US$),TX.VAL.MRCH.CD.WT,1960,1331610000
+India,IND,Merchandise exports by the reporting economy (current US$),TX.VAL.MRCH.WL.CD,1960,1313500000
+India,IND,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",TX.VAL.MRCH.RS.ZS,1960,8.679101637
+India,IND,Merchandise exports to developing economies in East Asia & Pacific (% of total merchandise exports),TX.VAL.MRCH.R1.ZS,1960,3.669585078
+India,IND,Merchandise exports to developing economies in Latin America & the Caribbean (% of total merchandise exports),TX.VAL.MRCH.R3.ZS,1960,1.507422916
+India,IND,Merchandise exports to developing economies in Middle East & North Africa (% of total merchandise exports),TX.VAL.MRCH.R4.ZS,1960,3.989341454
+India,IND,Merchandise exports to developing economies in South Asia (% of total merchandise exports),TX.VAL.MRCH.R5.ZS,1960,5.550057099
+India,IND,Merchandise exports to developing economies in Sub-Saharan Africa (% of total merchandise exports),TX.VAL.MRCH.R6.ZS,1960,4.156832889
+India,IND,Merchandise exports to developing economies outside region (% of total merchandise exports),TX.VAL.MRCH.OR.ZS,1960,14.0616673
+India,IND,Merchandise exports to developing economies within region (% of total merchandise exports),TX.VAL.MRCH.WR.ZS,1960,5.550057099
+India,IND,Merchandise exports to economies in the Arab World (% of total merchandise exports),TX.VAL.MRCH.AL.ZS,1960,6.55500571
+India,IND,Merchandise exports to high-income economies (% of total merchandise exports),TX.VAL.MRCH.HI.ZS,1960,71.70917396
+India,IND,Merchandise imports (current US$),TM.VAL.MRCH.CD.WT,1960,2303280000
+India,IND,Merchandise imports by the reporting economy (current US$),TM.VAL.MRCH.WL.CD,1960,2249400000
+India,IND,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",TM.VAL.MRCH.RS.ZS,1960,4.983551169
+India,IND,Merchandise imports from developing economies in East Asia & Pacific (% of total merchandise imports),TM.VAL.MRCH.R1.ZS,1960,2.822975016
+India,IND,Merchandise imports from developing economies in Latin America & the Caribbean (% of total merchandise imports),TM.VAL.MRCH.R3.ZS,1960,0.231172757
+India,IND,Merchandise imports from developing economies in Middle East & North Africa (% of total merchandise imports),TM.VAL.MRCH.R4.ZS,1960,5.370320974
+India,IND,Merchandise imports from developing economies in South Asia (% of total merchandise imports),TM.VAL.MRCH.R5.ZS,1960,2.249488753
+India,IND,Merchandise imports from developing economies in Sub-Saharan Africa (% of total merchandise imports),TM.VAL.MRCH.R6.ZS,1960,3.143060372
+India,IND,Merchandise imports from developing economies outside region (% of total merchandise imports),TM.VAL.MRCH.OR.ZS,1960,11.95874455
+India,IND,Merchandise imports from developing economies within region (% of total merchandise imports),TM.VAL.MRCH.WR.ZS,1960,2.249488753
+India,IND,Merchandise imports from economies in the Arab World (% of total merchandise imports),TM.VAL.MRCH.AL.ZS,1960,5.254734596
+India,IND,Merchandise imports from high-income economies (% of total merchandise imports),TM.VAL.MRCH.HI.ZS,1960,80.80821552
+India,IND,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,1960,9.646921415
+India,IND,Mobile cellular subscriptions,IT.CEL.SETS,1960,0
+India,IND,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,1960,0
+India,IND,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,1960,502.961
+India,IND,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,1960,480.879
+India,IND,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1960,165.1
+India,IND,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,1960,247.7
+India,IND,"Net bilateral aid flows from DAC donors, Canada (current US$)",DC.DAC.CANL.CD,1960,26600000
+India,IND,"Net bilateral aid flows from DAC donors, Denmark (current US$)",DC.DAC.DNKL.CD,1960,20000
+India,IND,"Net bilateral aid flows from DAC donors, Germany (current US$)",DC.DAC.DEUL.CD,1960,82790000
+India,IND,"Net bilateral aid flows from DAC donors, Italy (current US$)",DC.DAC.ITAL.CD,1960,2960000
+India,IND,"Net bilateral aid flows from DAC donors, Japan (current US$)",DC.DAC.JPNL.CD,1960,16200000
+India,IND,"Net bilateral aid flows from DAC donors, Norway (current US$)",DC.DAC.NORL.CD,1960,700000
+India,IND,"Net bilateral aid flows from DAC donors, Portugal (current US$)",DC.DAC.PRTL.CD,1960,300000
+India,IND,"Net bilateral aid flows from DAC donors, Total (current US$)",DC.DAC.TOTL.CD,1960,736410000
+India,IND,"Net bilateral aid flows from DAC donors, United Kingdom (current US$)",DC.DAC.GBRL.CD,1960,82840000
+India,IND,"Net bilateral aid flows from DAC donors, United States (current US$)",DC.DAC.USAL.CD,1960,524000000
+India,IND,Net income from abroad (current LCU),NY.GSR.NFCY.CN,1960,-720000000
+India,IND,Net income from abroad (current US$),NY.GSR.NFCY.CD,1960,-151200151.2
+India,IND,Net ODA received (% of GNI),DT.ODA.ODAT.GN.ZS,1960,1.944224458
+India,IND,Net ODA received (% of gross capital formation),DT.ODA.ODAT.GI.ZS,1960,13.27115215
+India,IND,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,1960,1.622619222
+India,IND,Net official development assistance and official aid received (constant 2012 US$),DT.ODA.ALLD.KD,1960,5367120000
+India,IND,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,1960,729630000
+India,IND,Net official development assistance received (constant 2012 US$),DT.ODA.ODAT.KD,1960,5367120000
+India,IND,Net official development assistance received (current US$),DT.ODA.ODAT.CD,1960,729630000
+India,IND,Net taxes on products (constant LCU),NY.TAX.NIND.KN,1960,4.25246E+11
+India,IND,Net taxes on products (current LCU),NY.TAX.NIND.CN,1960,8930000000
+India,IND,Net taxes on products (current US$),NY.TAX.NIND.CD,1960,1875301875
+India,IND,Number of infant deaths,SH.DTH.IMRT,1960,2821845
+India,IND,Number of under-five deaths,SH.DTH.MORT,1960,4340497
+India,IND,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,1960,4.761900004
+India,IND,"Patent applications, nonresidents",IP.PAT.NRES,1960,3782
+India,IND,"Patent applications, residents",IP.PAT.RESD,1960,721
+India,IND,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,1960,0.210477665
+India,IND,Population ages 65 and above (% of total),SP.POP.65UP.TO.ZS,1960,3.060571242
+India,IND,Population growth (annual %),SP.POP.GROW,1960,1.95220635
+India,IND,Population in largest city,EN.URB.LCTY,1960,5652240
+India,IND,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,1960,7.01293146
+India,IND,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1960,31142192
+India,IND,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,1960,6.925691014
+India,IND,"Population, ages 0-14 (% of total)",SP.POP.0014.TO.ZS,1960,40.30131049
+India,IND,"Population, ages 15-64 (% of total)",SP.POP.1564.TO.ZS,1960,56.63811827
+India,IND,"Population, female (% of total)",SP.POP.TOTL.FE.ZS,1960,48.39991905
+India,IND,"Population, total",SP.POP.TOTL,1960,449661874
+India,IND,Rural population,SP.RUR.TOTL,1960,369064480
+India,IND,Rural population (% of total population),SP.RUR.TOTL.ZS,1960,82.076
+India,IND,Rural population growth (annual %),SP.RUR.TOTL.ZG,1960,1.868173247
+India,IND,"Services, etc., value added (% of GDP)",NV.SRV.TETC.ZS,1960,38.13928823
+India,IND,"Services, etc., value added (constant 2005 US$)",NV.SRV.TETC.KD,1960,30768402217
+India,IND,"Services, etc., value added (constant LCU)",NV.SRV.TETC.KN,1960,1.74716E+12
+India,IND,"Services, etc., value added (current LCU)",NV.SRV.TETC.CN,1960,65025577400
+India,IND,"Services, etc., value added (current US$)",NV.SRV.TETC.CD,1960,13655384909
+India,IND,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,1960,28.06163
+India,IND,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,1960,29.7759
+India,IND,Terms of trade adjustment (constant LCU),NY.TTF.GNFS.KN,1960,27715913750
+India,IND,"Total reserves (includes gold, current US$)",FI.RES.TOTL.CD,1960,674536630.9
+India,IND,Total reserves minus gold (current US$),FI.RES.XGLD.CD,1960,423000000
+India,IND,Trade (% of GDP),NE.TRD.GNFS.ZS,1960,11.1021357
+India,IND,Urban population,SP.URB.TOTL,1960,80597394
+India,IND,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,17.924
+India,IND,Urban population growth (annual %),SP.URB.GROW,1960,2.337907925
+India,IND,Wholesale price index (2010 = 100),FP.WPI.TOTL,1960,3.096740345
